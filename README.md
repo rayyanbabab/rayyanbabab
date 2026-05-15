@@ -1,52 +1,47 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=150&text=Hi,%20I'm%20Rayyan%20Ammar%20Fadhillah&fontSize=50&fontColor=fdd935&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Mobile%20Developer&descSize=30&descAlignY=85&section=header" /> 
+ 
+I'm Rayyan Ammar Fadhillah, a student majoring in Information Systems at the University of Jambi. I have a strong interest in frontend development. With a solid foundation in JavaScript and TypeScript, as well as a comprehensive understanding of various frontend libraries and frameworks, I have navigated the ever-evolving landscape of web development with enthusiasm and dedication. 
+ 
+I focus on creating web applications that not only provide precise experiences but are also user-friendly. My specialization includes JavaScript and TypeScript, along with frameworks such as React, Vite, and Next.js. As a quick learner and adaptive thinker, I thrive in a dynamic environment where innovation is a driving force. My collaborative nature allows me to seamlessly integrate with teams, contributing not only to my technical skills but also embodying a humble attitude that values input from every team member.
 
-###
+[![Instagram Badge](https://img.shields.io/badge/-@rayyanammarf_-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)]()
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+[![](https://komarev.com/ghpvc/?username=rayyanammarf&color=blue&label=Profile%20Views)](https://github.com/rayyanammarf)
+[![](https://img.shields.io/github/followers/rayyanammarf?label=GitHub%20Followers)](https://github.com/rayyanammarf)
 
-###
+### Core Tech Stacks
+![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind,kotlin)
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+### Other Tech Stacks
 
-###
+![My Skills](https://skillicons.dev/icons?perline=9&i=html,css,bootstrap,js,vite,astro,nodejs,express,php,laravel,golang,redux,prisma,mysql,postgres,firebase,supabase)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
+### Tools
 
-###
+![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,github,notion)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<!--
 
-###
+### Others
+
+![My Skills](https://skillicons.dev/icons?i=npm,yarn,bun,netlify,vercel,stackoverflow)
+
+-->
+
+### Statistics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rayyanammarf&theme=maroongold&show_icons=true&)
+
+<!---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rayyanammarf&theme=maroongold&card_width=470)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rayyanammarf&theme=maroongold)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rayyanammarf&theme=maroongold" alt="GitHub Streak" /></a>
+--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanammarf&card_width=495&langs_count=7&layout=compact&theme=maroongold)
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rayyanammarf_&langs_count=7&layout=compact&theme=maroongold) 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=100&section=footer" />
